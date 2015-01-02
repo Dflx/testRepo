@@ -1,0 +1,4 @@
+This is a simple hello
+from a simple text editor
+to test a simple reop
+in git
